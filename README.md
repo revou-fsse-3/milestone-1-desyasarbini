@@ -1,1 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/_e9whi2b)
+# My Website Step by Step
+1. first of all I need to clone the repository where I'm gonna work on to my local
+`gh repo clone revou-fsse-3/milestone-1-desyasarbini`
