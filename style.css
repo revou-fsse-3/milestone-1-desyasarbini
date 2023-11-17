@@ -317,6 +317,11 @@ footer .logo a {
   color: #261e50;
 }
 
+footer .logo a:hover {
+  color: crimson;
+  transition: 0.8s;
+}
+
 footer .sosmed {
   display: flex;
 }
@@ -324,6 +329,12 @@ footer .sosmed {
 .sosmed a {
   margin: 0 5px;
   font-size: 20px;
+  color: #261e50;
+}
+
+.sosmed a:hover {
+  color: crimson;
+  transition: 0.8s;
 }
 
 .nav-footer ul li {
@@ -332,4 +343,10 @@ footer .sosmed {
 
 .nav-footer ul li a {
   text-decoration: none;
+  color: #261e50;
+}
+
+.nav-footer ul li a:hover {
+  color: crimson;
+  transition: 0.8s;
 }
