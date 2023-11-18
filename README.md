@@ -44,4 +44,4 @@
    ![configure](./assets/deploy-step3.png)
    ![deploy loading](./assets/deploy-step4.png)
    ![finish deploy](./assets/deploy-step5.png)
-5. once it finish klik edit and input the domain name.
+5. once it finish klik edit and input the domain name and finish.
