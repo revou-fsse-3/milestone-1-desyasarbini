@@ -27,18 +27,6 @@ header {
   z-index: 1;
 }
 
-.credit {
-  background-color: #f6c0a7;
-  padding: 5px 0;
-}
-
-.credit a {
-  font-family: "Sarabun";
-  color: #261e50;
-  text-decoration: none;
-  font-size: 12px;
-}
-
 /* nav-bar */
 nav {
   display: flex;
@@ -100,7 +88,6 @@ nav {
 }
 
 main {
-  /* height: 780px; */
   display: flex;
   flex-direction: column;
   align-items: center;

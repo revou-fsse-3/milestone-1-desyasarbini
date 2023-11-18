@@ -26,14 +26,6 @@
     display: none;
   }
 
-  /* #home p {
-    display: none;
-  } */
-  /* #home a {
-    margin-top: 50%;
-    display: inline-flex;
-  } */
-
   #about-us h2 {
     font-size: 18px;
   }
@@ -97,9 +89,6 @@
     align-items: center;
     font-size: 14px;
   }
-  /* #home a {
-    margin-top: 400px;
-  } */
   #about-us > div {
     flex-direction: column-reverse;
   }
