@@ -16,6 +16,7 @@ body {
   color: #261e4f;
   font-family: "Sarabun";
   font-weight: 500;
+  scroll-behavior: smooth;
 }
 
 header {
